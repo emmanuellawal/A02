@@ -12,20 +12,23 @@ Here are the steps to using GitHub as a beginner:
 7. You will then be prompted to push commits to origin and click PUSH ORIGIN where your repository will then be updated to the latest version
 
 Visual Studio Code (Tutorial):
-1.
+1. Download and install VS Code
+2. Follow the installation instructions and then open VS Code
+3. Find and click on "File" in the top-left corner, where you will be prompted to navigate to your code files.
+4. Once a local file is opened, you can begin to code (edit/add) and save when finished
 
-**Branch** -
-**Clone** -
-**Commit** -
-**Fetch** -
+**Branch** - where multiple users can pull the main code to their own versions and once prepared, can merge their contributions back to the main directory
+**Clone** - will make a copy of an existing git repository onto the local machine
+**Commit** - another term for saved changes for files you want to update
+**Fetch** - grabs info on and updates your remote-tracking branches (does not change local branches)
 **GIT** - an open-source version control system
-**Github** -
-**Merge** -
-**Merge Conflict** -
-**Push** -
-**Pull** -
-**Remote** -
-**Repository** -
+**Github** - website that allows for multiple developers to add, modify, and contribute to codes posted on their online directories
+**Merge** - adds your code to the Master Branch
+**Merge Conflict** - when two branches both modify the same coding within a file and are subsequently merged
+**Push** - updates the remote branch with local commits
+**Pull** - a user requests of your personal changes to code and pulls and merges your contributions to their branch
+**Remote** - repositories other than those on a local disk that can push/pull changes onto GitHub
+**Repository** - an online directory where files of code is kept
 
 
 References:
